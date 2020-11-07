@@ -1,6 +1,7 @@
 # Automation_Hadoop_Docker_AWS
 I have done the following things as follows :-
 Hadoop
+
 Run any Linux Command Locally & Remotely
 Configure WebServer on Local OS , Remote OS and AWS Cloud
 Configure and start Namenode on Local OS and AWS Cloud
