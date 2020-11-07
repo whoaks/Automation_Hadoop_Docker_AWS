@@ -20,7 +20,7 @@ Attach More hard-disks to Virtual group dynamically
 Increase Partition Size Dynamically
 
 
-AWS Cloud 
+<h1>AWS Cloud</h1> 
 
 
 Created & Deleted Key Pair
@@ -52,7 +52,7 @@ Deleted S3 bucket
 Stop , Start and terminate Ec2 Instance
 
 
-Docker
+<h1>Docker</h1>
 
 
 Pull Image from Docker hub
@@ -72,6 +72,6 @@ Delete Single or all docker container
 Configure Webserver inside docker container
 
 
-Machine Learning
+<h1>Machine Learning</h1>
 
 Predict output from Data Set
